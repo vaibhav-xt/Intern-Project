@@ -663,6 +663,8 @@ footer .common-footer-box p:nth-child(2) {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        left: 12%;
+        margin-top: 10px;
     }
 
     .partnership-first-box {
